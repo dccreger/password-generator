@@ -37,7 +37,7 @@ function generatePassword() {
     allChars += numberChars;
   }
   if (includeSpecial) {
-    allChars += numberChars;
+    allChars += specialChars;
   }
   if (allChars === "") {
     alert("Please select at least one character type");
