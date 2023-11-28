@@ -25,7 +25,7 @@ This is a simple JavaScript-based password generator. Users can customize the pa
 
 ## Example
 
-![Password Generator](Develop/Assets/Images/Screenshot.png)
+![Password Generator](Assets/Images/Screenshot.png)
 
 ## Contributions
 
